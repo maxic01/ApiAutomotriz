@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ReportesFramework\ReportesFramework.csproj" />
+    <ProjectReference Include="..\AutomotrizBackProg\AutomotrizBackProg.csproj" />
   </ItemGroup>
 
   <ItemGroup>
